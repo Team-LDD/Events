@@ -1,0 +1,9 @@
+name: Events
+version: '${project.version}'
+main: com.foxdev.events.Events
+description: Made by LockedDevelopment
+
+commands:
+  events:
+    description: Event gui
+    permission: locked.events
